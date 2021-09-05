@@ -47,7 +47,7 @@ When you delete an account, it is more than like that every piece of data and ev
 
 These steps that I am about to outline are to be repeated for every account that you have to delete for maximum effectiveness.
 
-Visit <a href="https://justdeleteme.xyz/">justdeleteme.xyz</a>) and check if the account you want to delete is in the list. If so, your life has just been made a lot easier. If not though, simply look up the method in which you delete the account on the support page on the website. Be warned that some websites will try and hide this information as a means of keeping you with their service, do not fall for it.
+Visit <a href="https://justdeleteme.xyz/">justdeleteme.xyz</a> and check if the account you want to delete is in the list. If so, your life has just been made a lot easier. If not though, simply look up the method in which you delete the account on the support page on the website. Be warned that some websites will try and hide this information as a means of keeping you with their service, do not fall for it.
 
 <br>
 
