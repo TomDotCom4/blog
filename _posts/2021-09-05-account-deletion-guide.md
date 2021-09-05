@@ -41,6 +41,8 @@ Make a new folder in Bitwarden as per the guide you read above (you did read it,
 
 When you delete an account, it is more than like that every piece of data and every purchase you made on that service will no longer be accessible (well,<a href="https://youtu.be/oHCK3NKFBW4?t=459"> unless you're Discord!</a>). This means you will no longer see any of the data or be able to access it. Make sure you download all of your data from these services before deleting them if you care about it, especially social media and financial services. <a href="https://justgetmydata.com/">justgetmydata.com</a>) is a directory of links that will help you easily download your data from the most popular services, but for other services not on here, you will have to search for the method that the website you want the data from uses, if any at all. I am not responsible if you accidentally lose data that is very important or necessary to you.
 
+If you are also the kind of person that likes helping strangers, consider recording how you delete some of your accounts and contribute those methods to <a href="https://github.com/jdm-contrib/jdm">JustDeleteMe via Github</a>, as this will make things tremendously more easy for anyone who is deleting the accounts for services you are deleting too.
+
 <br>
 
 ### The Account Deletion Procedure
@@ -77,4 +79,7 @@ Now you need to repeat the account deletion procedure for every account. Like I 
 
 ### The End
 
-Congratulations, you now have a password manager, a better picture of the accounts you have in your posession and the data thats out there and a strongly minimised digital footprint that will assist in lowering your chance of being involved in a data breach online. If you know anyone who needs this, you should consider sharing this with them because the fewer accounts and services we use, the safer we all are in the end.
+Congratulations, you now have a password manager, a better picture of the accounts you have in your posession and the data thats out there and a strongly minimised digital footprint that will assist in lowering your chance of being involved in a data breach online. If you know anyone who needs this, you should consider sharing this with them because the fewer accounts and services we use, the safer we all are in the end. Some final but optional suggestions though
+
+- If you also don't need Todoist anymore, consider deleting that too. It is a very easy "delete account button" style deletion.
+- If you would like to help make things easier for other people, consider contributing to <a href="https://github.com/jdm-contrib/jdm">JustDeleteMe via Github</a> and helping other people on their journey to freedom from the stranglehold of needless online accounts.
