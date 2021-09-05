@@ -51,9 +51,9 @@ Visit <a href="https://justdeleteme.xyz/">justdeleteme.xyz</a>) and check if the
 
 <br>
 
-If the account that you are going to delete is a simple one click operation (e.g. <a href="https://justdeleteme.xyz/#imdb">IMDb</a>) or requires a couple of small steps, then simple take part in those steps to delete the account and then move its relevant Bitwarden entry into the recycle bin.
+**If the account that you are going to delete is a simple one click operation** (e.g. <a href="https://justdeleteme.xyz/#imdb">IMDb</a>) or requires a couple of small steps, then simple take part in those steps to delete the account and then move its relevant Bitwarden entry into the recycle bin.
 
-If the account requires extra steps, usually in the form of contacting the company, then contact the company from the email that you signed up to their service/website with and copy and paste the following, ensuring that you replace the square bracketed values with their necessary contents:
+**If the account requires extra steps, usually in the form of contacting the company**, then contact the company from the email that you signed up to their service/website with and copy and paste the following, ensuring that you replace the square bracketed values with their necessary contents:
 
 <br>
 
@@ -69,9 +69,11 @@ If the account requires extra steps, usually in the form of contacting the compa
 
 This will help in eliminating any follow up questions, most of which ask you if you are sure you want to delete it. You should also contact support anyway, even if the company doesn't explicitly state their method of account deletion on their website. Once you've done this, make a new entry under the relevant email column in your Kanban board on Todoist and simply write the name of the service. Then when you have confirmation your account is deleted, move the entry over to the "deleted" column you made.
 
-If the account is impossible to delete, move the entry for that account in Bitwarden into a new folder called "undeletable" to signify that it can't be deleted at this time. If the company every has a change of heart and honours these requests officially, or your country passes some sort of "right to be forgotten" legislation, then you can use either to your advantage on those once stubborn businesses to delete your account with them.
+**If the account is impossible to delete**, move the entry for that account in Bitwarden into a new folder called "undeletable" to signify that it can't be deleted at this time. If the company every has a change of heart and honours these requests officially, or your country passes some sort of "right to be forgotten" legislation, then you can use either to your advantage on those once stubborn businesses to delete your account with them.
 
 Now you need to repeat the account deletion procedure for every account. Like I said above, this is daunting, but if you have 100 accounts to delete and delete one account a day, you will only take 100 days.
+
+<br>
 
 ### The End
 
