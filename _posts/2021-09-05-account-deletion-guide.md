@@ -79,7 +79,7 @@ Now you need to repeat the account deletion procedure for every account. Like I 
 
 ### The End
 
-Congratulations, you now have a password manager, a better picture of the accounts you have in your posession and the data thats out there and a strongly minimised digital footprint that will assist in lowering your chance of being involved in a data breach online. If you know anyone who needs this, you should consider sharing this with them because the fewer accounts and services we use, the safer we all are in the end. Some final but optional suggestions though
+Congratulations! You now have a password manager, a better picture of the accounts you have in your posession and the data thats out there and a strongly minimised digital footprint that will assist in lowering your chance of being involved in a data breach online. If you know anyone who needs this, you should consider sharing this with them because the fewer accounts and services we use, the safer we all are in the end. Some final but optional suggestions though:
 
 - If you also don't need Todoist anymore, consider deleting that too. It is a very easy "delete account button" style deletion.
 - If you would like to help make things easier for other people, consider contributing to <a href="https://github.com/jdm-contrib/jdm">JustDeleteMe via Github</a> and helping other people on their journey to freedom from the stranglehold of needless online accounts.
