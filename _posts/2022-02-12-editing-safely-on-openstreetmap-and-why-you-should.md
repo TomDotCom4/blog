@@ -1,4 +1,9 @@
-# OSM SAFE EDITING GUIDE
+---
+layout: post
+title:  "Why OpenStreetMap is Awesome (And How to Edit Safely on it)
+categories: jekyll update
+permalink: /eftpos-australia-latest-surveillance/
+---
 
 In the modern world, one of the biggest Google services that people can't get away from easily is Google Maps. This is because Google Maps is one of the richest companies on earth, so it is very difficult for competition to rise up. Luckily for us, something beautiful, much less invasive and superior on a technical level exist called OpenStreetMap.
 
